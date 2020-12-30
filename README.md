@@ -9,8 +9,6 @@
 
 <img src="https://img.shields.io/badge/made%20by-Raj-Dalsaniya.svg" >
 
-<img src="https://beerpay.io/RD191295/OCR/badge.svg?style=flat">
-
 <img src="https://img.shields.io/github/stars/RD191295/OCR.svg?style=flat">
 
 <img src="https://img.shields.io/github/languages/top/RD191295/OCR.svg">
