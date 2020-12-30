@@ -9,9 +9,7 @@
   
 <img src="https://img.shields.io/npm/dy/silentlad">
 
-<img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
-
-<img src="https://img.shields.io/badge/vue-2.2.4-green.svg">
+<img src="https://img.shields.io/badge/made%20by-Raj-Dalsaniya.svg" >
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 
