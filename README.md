@@ -2,9 +2,9 @@
  
 [![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/RD191295/OCR)
 
-<p align="center" >
+<p >
 
-<h2>
+<h2 align="center" >
 
 <img src="https://img.shields.io/badge/made%20by-Raj-Dalsaniya.svg" >
 
