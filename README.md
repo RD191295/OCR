@@ -2,7 +2,7 @@
 
 <h2 align="center" >
      
-[![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/RD191295/OCR)
+
 </h2>
 <p >
 
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/github/languages/top/RD191295/OCR.svg">
 
 <img src="https://img.shields.io/github/issues/RD191295/OCR.svg">
+[![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/RD191295/OCR)
 </h2>
 </p>
 
