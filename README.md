@@ -1,11 +1,11 @@
 <h1 align="center">OCR App</h1>
-
-
-  
+ 
 [![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/RD191295/OCR)
 
 <p align="center" >
+
 <h2>
+
 <img src="https://img.shields.io/badge/made%20by-Raj-Dalsaniya.svg" >
 
 <img src="https://img.shields.io/github/stars/RD191295/OCR.svg?style=flat">
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/github/issues/RD191295/OCR.svg">
 
 </p>
+</h2>
 
 <h2><b>Introduction:-</b></H2>
      
