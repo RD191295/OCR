@@ -15,9 +15,6 @@ import cv2
 import numpy as np
 
 class Ui_SMART_OCR(QWidget):
-    def __init__(self): 
-        super().__init__()
-        #self.setWindowTitle("SmartOCR")
     
     def setupUi(self, SMART_OCR):
         SMART_OCR.setObjectName("SMART_OCR")
