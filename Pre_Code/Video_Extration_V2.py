@@ -407,7 +407,7 @@ class Ui_SMART_OCR(QWidget):
         img = cv2.imread("change.jpeg")
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-        if self.Skwe_Corr_Box.isChecked()==True:
+        if self.Skwe_Corr_Box.isChecked() is True:
         
             gray = cv2.bitwise_not(gray)
             thresh = cv2.threshold(gray, 0, 255,cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
@@ -423,15 +423,15 @@ class Ui_SMART_OCR(QWidget):
             rotated = cv2.warpAffine(img, M, (w, h),flags=cv2.INTER_CUBIC, borderMode=cv2.BORDER_REPLICATE)
             return rotated
         
-        elif self.Thresh_Corr_Box.isChecked()==True:
+        elif self.Thresh_Corr_Box.isChecked() is True:
             threshold_img = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU)[1]
             return threshold_img
         
-        elif self.Blurr_Corr_Box.isChecked()==True:
+        elif self.Blurr_Corr_Box.isChecked() is True:
             gray = cv2.medianBlur(gray, 5)
             return gray        
         
-        elif self.No_Filter_Box.isChecked()==True:
+        elif self.No_Filter_Box.isChecked() is True:
             return gray
     
 
