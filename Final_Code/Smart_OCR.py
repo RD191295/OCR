@@ -21,7 +21,6 @@ import io
 
 
 class Ui_SMART_OCR(QWidget):
-    
     """ Main Class For UI"""
     
     def setupUi(self, SMART_OCR):
