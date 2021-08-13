@@ -554,17 +554,17 @@ class Ui_SMART_OCR(QWidget):
             )
             return rotated
 
-        elif self.Thresh_Corr_Box.isChecked() is True:
+        if self.Thresh_Corr_Box.isChecked() is True:
             threshold_img = cv2.threshold(
                 gray, 0, 255, cv2.THRESH_BINARY | cv2.THRESH_OTSU
             )[1]
             return threshold_img
 
-        elif self.Blurr_Corr_Box.isChecked() is True:
+        if self.Blurr_Corr_Box.isChecked() is True:
             gray = cv2.medianBlur(gray, 5)
             return gray
 
-        elif self.No_Filter_Box.isChecked() is True:
+        if self.No_Filter_Box.isChecked() is True:
             return gray
 
 
