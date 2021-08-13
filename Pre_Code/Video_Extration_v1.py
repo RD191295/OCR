@@ -16,7 +16,6 @@ import numpy as np
 import unicodedata
 
 class Ui_SMART_OCR(QWidget):
-    
     """ MAIN CLass For all GUI Instance"""
 
     def setupUi(self, SMART_OCR):
